@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5282" started-at="2020-07-18T18:49:12 IST" finished-at="2020-07-18T18:49:18 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5282" started-at="2020-07-18T18:49:12 IST" finished-at="2020-07-18T18:49:18 IST">
+      <class name="Selenium.Maven.GoogleSearchTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:Selenium.Maven.GoogleSearchTest@458c1321]" name="beforeTest" is-config="true" duration-ms="18850" started-at="2020-07-18T18:48:53 IST" finished-at="2020-07-18T18:49:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="GoogleSearchDemo()[pri:0, instance:Selenium.Maven.GoogleSearchTest@458c1321]" name="GoogleSearchDemo" duration-ms="5260" started-at="2020-07-18T18:49:12 IST" finished-at="2020-07-18T18:49:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearchDemo -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Selenium.Maven.GoogleSearchTest@458c1321]" name="afterTest" is-config="true" duration-ms="1151" started-at="2020-07-18T18:49:18 IST" finished-at="2020-07-18T18:49:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Selenium.Maven.GoogleSearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
